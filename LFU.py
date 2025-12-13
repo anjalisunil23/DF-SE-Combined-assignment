@@ -39,7 +39,7 @@ def lfu(pages, capacity):
         print("Frequency:", freq)
 
     print("\nTotal Page Faults =", faults)
-pages = [2, 3, 2, 1, 5, 2, 4, 5]
+pages = [2, 3, 2, 1, 5, 4, 5]
 capacity = 3
 
 lfu(pages, capacity)
