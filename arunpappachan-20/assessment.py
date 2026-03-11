@@ -1,4 +1,4 @@
-def fifo_cache_analysis(reference_string, cache_size):
+def fifo_cache_analysis(reference_string, cache_size):dytdtd
     cache = []
     hits = 0
     misses = 0
